@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "types": [
+      "node",
+      "webdriverio",
+      "@wdio/mocha-framework",
+      "@types/mocha"
+    ]
+  },
+  "include": [
+    "./specs/**/*.ts"
+  ]
+}
